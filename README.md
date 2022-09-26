@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Burçak Kasap</h1>
-<h3 align="center">Computer Engineer and Back end Developer</h3>
+<h1 align="center">Merhaba 👋, Ben Burçak Kasap</h1>
+<h3 align="center">Computer Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
